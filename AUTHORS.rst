@@ -8,5 +8,6 @@ Contributors
 
 *In alphabetical order*
 
+- Bernd Hoehl
 - `Fernando Macedo <http://github.com/fgmacedo/>`__
 - Your name here :)
