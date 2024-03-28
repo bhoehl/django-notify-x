@@ -1,5 +1,8 @@
 Changelog
 =========
+- Version 0.1.10
+    - Support for Django >= 3.0
+    - Updated on 28th Mar 2024
 
 - Version 0.1.9
     - Support Django 2.0

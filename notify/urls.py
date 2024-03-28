@@ -1,7 +1,7 @@
 try:
     from django.conf.urls import url
 except ImportError:
-    from django.urls import url
+    from django.urls import re_path as url
 
 from notify import views as nf
 
